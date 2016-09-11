@@ -1,0 +1,1 @@
+${weather.city}|${weather.latitude},${weather.longitude}|${weather.time}|${weather.condition}|${weather.temp}|${weather.pressure}|${weather.humidity}
